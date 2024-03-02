@@ -20,6 +20,7 @@ from sklearn.linear_model import LinearRegression
 from sklearn import metrics        
 from datetime import datetime, date, timedelta
 
+# This is the mysql connector
 import mysql.connector
 
 
